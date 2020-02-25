@@ -1,2 +1,2 @@
-# my_main_rep
-There is my main GitHub repository where Im gonna load some of my test and release projects and files
+# CV
+There is a repository that I use to upload some codes of my Computer Vision learning
